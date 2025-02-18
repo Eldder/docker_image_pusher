@@ -1,12 +1,13 @@
-node:18-alpine3.14
-mysql:9.1.0
-mongo:8.0.3
-neo4j:5.25.1
-mariadb:11.6.2
-apache/kafka:3.9.0
-redis:7.4.1-alpine
-elasticsearch:8.15.5
-elasticsearch:7.17.26
-elasticsearch:6.8.20
-apachepulsar/pulsar:3.3.3
-apachepulsar/pulsar:4.0.1
+python:3.9.13
+# node:18-alpine3.14
+# mysql:9.1.0
+# mongo:8.0.3
+# neo4j:5.25.1
+# mariadb:11.6.2
+# apache/kafka:3.9.0
+# redis:7.4.1-alpine
+# elasticsearch:8.15.5
+# elasticsearch:7.17.26
+# elasticsearch:6.8.20
+# apachepulsar/pulsar:3.3.3
+# apachepulsar/pulsar:4.0.1
