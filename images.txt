@@ -1,4 +1,5 @@
-python:3.9.13
+# python:3.9.13
+ubuntu:22.04
 # node:18-alpine3.14
 # mysql:9.1.0
 # mongo:8.0.3
