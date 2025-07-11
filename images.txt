@@ -13,3 +13,4 @@
 # apachepulsar/pulsar:3.3.3
 # apachepulsar/pulsar:4.0.1
 fiscoorg/fiscobcos:v3.6.0
+fiscoorg/fiscobcos:v3.11.0
