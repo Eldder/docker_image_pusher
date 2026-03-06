@@ -14,4 +14,5 @@
 # apachepulsar/pulsar:4.0.1
 # fiscoorg/fiscobcos:v3.6.0
 # fiscoorg/fiscobcos:v3.11.0
-log-system:1.0.0
+drill
+python:3.12.3
